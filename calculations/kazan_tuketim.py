@@ -4,7 +4,7 @@ from CoolProp.CoolProp import PropsSI
 
 def run():
     st.title("🔥 Kazan Yakıt Tüketim Hesabı")
-    st.caption("v1.2 | Son güncelleme: ...")
+    st.caption("v1.2 | Son güncelleme: 09.01.2026")
 
     # -----------------------------
     # 1) Yakıt seçimi + LHV (kcal/Nm³)
